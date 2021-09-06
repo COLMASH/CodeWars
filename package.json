@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/COLMASH/CodeWars.git",
   "author": "Miguel Santana H. <mi_santa@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
 }
